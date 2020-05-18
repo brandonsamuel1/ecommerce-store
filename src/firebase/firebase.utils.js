@@ -3,7 +3,7 @@ import 'firebase/firestore'
 import 'firebase/auth'
 
 const config = {
-    apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
+    apiKey: process.env.REACT_APP_API_KEY,
     authDomain: "crwn-clothing-db-39884.firebaseapp.com",
     databaseURL: "https://crwn-clothing-db-39884.firebaseio.com",
     projectId: "crwn-clothing-db-39884",
